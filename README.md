@@ -18,4 +18,7 @@ Skills: REACT / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranav-develop)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav-develop)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pranav-develop)  
