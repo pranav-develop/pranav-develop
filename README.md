@@ -12,12 +12,9 @@ Skills: REACT / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranav-develop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranav-shukla-33aa41193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pranav.shukla.988)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pranavshukla.02/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-develop&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-develop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-develop&show_icons=true&count_private=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-develop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranav-develop)  
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav-develop)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pranav-develop)  
