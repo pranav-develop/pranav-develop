@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS
 - ⚡ Fun fact: I an very facianted about space and loves to talk and explore more about it 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-develop)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=pranav-develop)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pranav-develop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranav-shukla-33aa41193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pranav.shukla.988)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pranavshukla.02/)  
