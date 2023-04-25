@@ -20,6 +20,6 @@ Skills: REACT / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-develop&show_icons=true&count_private=true) 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranav-develop)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranav-develop)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pranav-develop)  
