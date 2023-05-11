@@ -2,10 +2,10 @@
 ####  
 I am currently pursuing my Bachelor's Degree in Computer Science & Information Technology from KIET Group of Institutions. I love to code and work on new and exciting projects. I am a Full Stack Developer and also a competitive coader. 
 
-Skills: REACT / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS
+Skills: Next / Nest / React / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS / Java / SpringBoot
 
 - 🌱 I’m currently learning Spring Boot and Hibernate 
-- 💬 Ask me about Web Design & Development 
+- 💬 Ask me about Design & Development of Applications
 - 📫 How to reach me: Mail me at pranavschiller@gmail.com 
 - ⚡ Fun fact: I an very facianted about space and loves to talk and explore more about it 
 
