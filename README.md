@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pranav Shukla
 ####  
-I am currently pursuing my Bachelor's Degree in Computer Science & Information Technology from KIET Group of Institutions. I love to code and work on new and exciting projects. I am a Full Stack Developer and also a competitive coader. 
+I am currently working as a Software Developer for Quinn. I love to code and work on new and exciting projects. 
 
 Skills: Next / Nest / React / JS / HTML / CSS / Node / Express / Mongo / C++ / EJS / Java / SpringBoot
 
